@@ -13,7 +13,7 @@
 			<div class="span"></div>
 
 			<b><span>基本方針</span></b><br>
-			<span>　当サービスは、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サービスで取扱う個人情報の取得、利用「?、管理?」を適正に行います。</span>
+			<span>　当サービスは、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サービスで取扱う個人情報の取得、利用、管理を適正に行います。</span>
 
 			<div class="span"></div>
 
@@ -23,24 +23,24 @@
 			<div class="span"></div>
 
 			<b><span>個人情報の取得と利用目的</span></b><br>
-			<span>　当拡張機能は、個人情報を収集していません。ただし、一部の情報をChrome Storageによって「?利用者に?」保存しています。<br>
+			<span>　当拡張機能は、個人情報を収集していません。ただし、一部の情報をChrome Storageによって利用者のパソコンに保存しています。<br>
 			　当拡張機能が保存した情報は当拡張機能によってどこかに送信されることはありません。また当拡張機能が保存した情報は当拡張機能のアンインストールによって削除されます。</span>
 
 			<div class="span"></div>
 
-			<b><span>保尊する情報</span></b><br>
+			<b><span>保存する情報</span></b><br>
 			<spna>・課題の情報</spna><br>
-			<span>　　科目</span><br>
+			<span>　　科目名</span><br>
 			<span>　　タイトル</span><br>
 			<span>　　期限</span><br>
 			<span>　　URL</span><br>
-			<span>　　提出済みかどうか</span><br>
-			<span>　　授業の課題か利用者が作成した課題かどうか</span><br>
+			<span>　　課題を提出済みかどうか</span><br>
+			<span>　　授業の課題なのか利用者が作成した課題なのかどうか</span><br>
 
 			<div class="span"></div>
 
 			<span>・授業の情報</span><br>
-			<span>　　科目</span><br>
+			<span>　　科目名</span><br>
 			<span>　　URL</span><br>
 
 			<div class="span"></div>
@@ -55,7 +55,7 @@
 
 			<b><span>取得方法</span></b><br>
 			<spna>　当拡張機能がインストールされたときに当拡張機能によって初期化され、初期化状態が保存されます。</spna><br>
-			<spna>　LMSに表示されている課題、授業のデータをHTMLから取得して保存し、課題を取得したときに課題の取得日時を保存します。</spna><br>
+			<spna>　KING-LMSに表示されている課題、授業のデータをHTMLから取得して保存し、課題を取得したときに課題の取得日時を保存します。</spna><br>
 			<spna>　オプションページで設定の情報を保存します。</spna><br>
 
 			<div class="span"></div>
@@ -79,6 +79,12 @@
 	<style>
 		.span {
 			margin: 20px;
+		}
+		.span1 {
+			margin: 40px;
+		}
+		.span2 {
+			margin: 10px;
 		}
 	</style>
 </html>
