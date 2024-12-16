@@ -49,7 +49,7 @@
 			<span>　　課題の取得日時</span><br>
 			<span>　　課題の保存期間</span><br>
 			<span>　　通常のお知らせから重要なお知らせを選択するための文字</span><br>
-			<span>　　当拡張機能の部分的なonoff</span><br>
+			<span>　　当拡張機能の部分的なon/off</span><br>
 
 			<div class="span"></div>
 
