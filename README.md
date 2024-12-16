@@ -80,11 +80,5 @@
 		.span {
 			margin: 20px;
 		}
-		.span1 {
-			margin: 40px;
-		}
-		.span2 {
-			margin: 10px;
-		}
 	</style>
 </html>
