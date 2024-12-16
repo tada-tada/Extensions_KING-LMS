@@ -1,0 +1,39 @@
+#addTaskTable, #retentionPeriodTable, #addonOnOff, #importantNewsWordEdit,#removeTaskTable
+{
+    width: 500px;
+   margin: auto;
+}
+td {
+    text-align: center; /* ボタンをtd内で中央に寄せる */
+    background-color: #f0f0f0;
+}
+td.not_center{
+    text-align: initial;
+}
+.button-group {
+    display: flex;
+    justify-content: center; /* ボタンを中央寄せ */
+    gap: 10px; /* ボタン間のスペース */
+    margin-bottom: 10px; /* 初期化ボタンとのスペース */
+}
+#importantNewsWordEditButtonClear {
+    display: block;
+    margin: auto;
+}
+th {
+    background-color: #c0c0c0; 
+    font-size: 17px;
+}
+#importantNewsWordEditButton_remove,#removeTask_button{
+    color: red;
+}
+#importantNewsWordEditButton_add{
+    color: #165e83;
+}
+#addTaskButton,#addonOnOffButton,#retentionPeriodButton{
+    color: blue;
+}
+
+.span {
+	margin: 15px;
+}

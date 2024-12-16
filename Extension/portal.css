@@ -1,0 +1,7 @@
+.taskList {
+    margin: 20px;
+}
+
+.navbar-fixed-top .navbar-collapse,.navbar-fixed-bottom .navbar-collapse {
+    max-height: 500px !important;
+}
