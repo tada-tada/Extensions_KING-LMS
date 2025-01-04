@@ -1,0 +1,56 @@
+#addTaskTable, #retentionPeriodTable, #addonOnOff, #importantNewsWordEdit,#removeTaskTable
+{
+    width: 800px;
+   margin: auto;
+}
+td {
+    text-align: center;
+    background-color: #f0f0f0;
+    height: 50px;
+}
+td.not_center{
+    text-align: initial;
+}
+.none {
+    height: 1px !important;
+}
+.removeTaskChecBox {
+    width: 20px;
+    height: 20px;
+}
+.addTask_text, .retentionPeriod_text, .removeTaskTable_td, .onoff_text, .importantNewsWordEdit_showDivInput, #mportantNewsWordEditText, button, strong, .importantNewsWordEdit_showSpanInput {
+    font-size: 20px;
+}
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+#importantNewsWordEditButtonClear {
+    display: block;
+    margin: auto;
+}
+th {
+    background-color: #c0c0c0; 
+    font-size: 25px;
+}
+#importantNewsWordEditButton_remove,#removeTask_button{
+    color: red;
+}
+#importantNewsWordEditButton_add{
+    color: #165e83;
+}
+#addTaskButton,#addonOnOffButton,#retentionPeriodButton{
+    color: blue;
+}
+.span {
+	margin: 50px;
+}
+summary {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    background-color: #c0c0c0;
+    margin: 0 auto;
+}
